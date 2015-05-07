@@ -6,6 +6,23 @@ _rbovirt_ project.
 Note that this list of changes was added with the 0.0.30 release,
 previous releases aren't described here.
 
+== 0.1.0 / 2015-05-07
+
+New features:
+
+* wipe_after_delete' flag for a volume
+* Vm's comment support
+* Clone attribute for VM to support creation of full clones
+* High availability flag an priority 
+
+== 0.0.35 / 2015-02-23
+
+New features:
+
+* Floating Disk manipulations
+* Alias attributes for volume class
+* Affinity groups support
+
 == 0.0.32 / 2015-01-14
 
 New features:
